@@ -1,6 +1,7 @@
 {
   "name": "apna",
-  "homepage": "https://SarfarazInfoTech.github.io/BlackMarket",
+  "homepage": "https://sarfarazinfotech.github.io/BlackMarket",
+  "homepage": "https://sarfarazinfotech.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
